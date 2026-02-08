@@ -1,1 +1,0 @@
-15 2 * */2 * certbot renew --post-hook "cp -rL /etc/letsencrypt/live/mango-reader.cn/* ~/blog-nginx/cert/mango-reader.cn/"
